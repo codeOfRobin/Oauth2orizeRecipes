@@ -1,0 +1,1 @@
+web: cd authorization-server/ && npm start
