@@ -1,1 +1,1 @@
-web: cd authorization-server/ && npm start
+web: npm start
